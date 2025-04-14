@@ -1,0 +1,13 @@
+project/
+├── css/
+│   └── styles.css
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── error.html
+├── mongoose/
+│   ├── mongoose.c
+│   └── mongoose.h
+├── main.c
+├── Makefile
+└── run.sh
